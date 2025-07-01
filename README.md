@@ -26,7 +26,7 @@ Passo 2: Instale as dependências
 pip install -r requirements.txt
 Passo 3: Execute o sistema
 streamlit run investment_analyzer.py
-O sistema abrirá automaticamente no seu navegador (geralmente em http://localhost:8501).
+
 📋 Como Usar
 1. Selecione o Tipo de Análise
 •	Ações do Ibovespa: Análise focada nas principais ações da bolsa
